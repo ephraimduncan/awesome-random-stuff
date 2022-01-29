@@ -11,3 +11,9 @@ I do not mean anything I say here
 - I am bored and seriosly, I am tired of coding. I always do what I want to do and I do them because I can do them. No one has forced me, I have never dreamed of becoming a software developer. I learned how to code because It was fun and cool with the things you can build.
 - I actually never thought I could get this far and now that I am far enough, I feel it is ok. My journey ends here but something tells me it is not.
 - I guess I will keep learning. For now.
+
+### January 29, 2022
+- Two years in and I forgot this even existed
+- Everything I said here before was true though, Github organization did not last long.
+- I took a very long break from coding. I am back.
+- See you the next time I write here.
