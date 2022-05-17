@@ -17,3 +17,6 @@ I do not mean anything I say here
 - Everything I said here before was true though, Github organization did not last long.
 - I took a very long break from coding. I am back.
 - See you the next time I write here.
+
+### May 17, 2022
+![this-is-fine](https://user-images.githubusercontent.com/55143799/168832457-8fff3469-fc14-40d0-9b43-e56ae008c3bb.jpg)
